@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">Android Labs</string>
+<string name="hello_message">Hello World!!!</string>
+<string name="buttonText">Button</string>
+<string name="linearLayout">Linear layout</string>
+<string name="relativeLayout">Relative Layout</string>
+<string name="gridLayout">Grid Layout</string>
+<string name="lookAtMyGUI">Look at my gui</string>
+<string name="linearButtonText">Click here</string>
+<string name="linearCheckBox">Check This Out</string>
+<string name="linearSwitch">Switch on/off</string>
+<string name="linearText">Type here</string>
+
+
+</resources>

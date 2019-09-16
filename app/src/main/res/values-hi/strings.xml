@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एंड्रॉइड लैब
+</string>
+    <string name="hello_message">नमस्ते दुनिया
+    नमस्ते दुनिया
+    </string>
+    <string name="buttonText">बटन
+    </string>
+    <string name="linearLayout">रैखिक लेआउट</string>
+    <string name="relativeLayout">सापेक्ष लेआउट</string>
+    <string name="gridLayout">ग्रिड लेआउट</string>
+    <string name="lookAtMyGUI">मेरे gui को देखो</string>
+    <string name="linearButtonText">यहाँ क्लिक करें</string>
+    <string name="linearCheckBox">इसकी जांच करें</string>
+    <string name="linearSwitch">चालू/बंद करें</string>
+    <string name="linearText">यहाँ लिखें</string>
+</resources>
